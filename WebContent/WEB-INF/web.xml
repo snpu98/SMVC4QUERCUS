@@ -1,0 +1,36 @@
+<web-app xmlns="http://caucho.com/ns/resin">
+
+	<display-name>smvc</display-name>
+
+	<character-encoding>utf-8</character-encoding>
+
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>index.php</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+
+	<servlet>
+		<servlet-name>smvc</servlet-name>
+		<servlet-class>com.caucho.quercus.servlet.QuercusServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>smvc</servlet-name>
+		<url-pattern>*.php</url-pattern>
+		<init>
+			<compile>true</compile>
+		</init>
+		<php-ini>
+			<unicode.semantics>on</unicode.semantics>
+			<unicode.runtime_encoding>utf-8</unicode.runtime_encoding>
+			<unicode.output_encoding>utf-8</unicode.output_encoding>
+			<unicode.http_input_encoding>utf-8</unicode.http_input_encoding>
+		</php-ini>
+	</servlet-mapping>
+
+</web-app>

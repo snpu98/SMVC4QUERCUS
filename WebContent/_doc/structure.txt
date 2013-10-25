@@ -1,0 +1,61 @@
+================================================================================
+Semi Model View Controller Structure for PHP Script By Jin-Hwan, Kim
+================================================================================
+
+project*/
+	__controller_backend/
+		controller for backend Files( action*.target*( .property*).php)
+		.
+		.
+		.
+
+	__controller_ui/
+		controller for UI Files( action*.target*( .property*).php)
+		.
+		.
+		.
+
+	__model/
+		model Files( target*.php)
+		.
+		.
+		.
+
+	_doc/
+		structure.txt
+
+	_lib/
+		class.Database.php         -> class      for database
+		class.Model.php            -> class      for model
+		class.Controller.php       -> class      for controller
+		class.Log.php              -> class      for log
+		config.php
+		define.php
+		start.php
+
+	_log/
+		log_yyyyMMdd.txt
+		.
+		.
+		.
+
+	img/
+
+	css/
+		common.css
+
+	js/
+		common.js
+		jquery.js
+
+	VIEW-FILES( action*.target*.php)
+	.
+	.
+	.
+
+================================================================================
+*project  : project name
+*action   : [ dml, add, mod, del, chk, inc, ... ]
+*target   : target object name
+*property : property name
+================================================================================
