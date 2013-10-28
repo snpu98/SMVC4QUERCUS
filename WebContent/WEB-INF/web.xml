@@ -1,6 +1,6 @@
 <web-app xmlns="http://caucho.com/ns/resin">
 
-	<display-name>smvc</display-name>
+	<display-name>smvcq</display-name>
 
 	<character-encoding>utf-8</character-encoding>
 
