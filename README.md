@@ -25,7 +25,7 @@ You must create next on mysql and edit WebContent/_lib/config.php for running ex
   	`f_key` varchar(1024) NOT NULL,
   	`f_val` varchar(1024) NOT NULL,
   	PRIMARY KEY (`f_idx`)
-	) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+	) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
 	
 
 
