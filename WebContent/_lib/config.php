@@ -1,7 +1,7 @@
 <?php
 // Service information
 define( '__SERVICE_NAME__', 'Semi MVC Prototype');
-define( '__SERVICE_HOST__', 'http://localhost:9080/smvc/');
+define( '__SERVICE_HOST__', 'http://localhost:9080/smvcq/');
 
 // Database information
 define( '__DB_HOST__', 'localhost');

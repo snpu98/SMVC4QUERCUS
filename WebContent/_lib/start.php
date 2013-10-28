@@ -1,5 +1,5 @@
 <?php
-define( '__DOC_ROOT__'        , 'E:/WORK/smvc/WebContent/');
+define( '__DOC_ROOT__'        , 'E:/SMVC4QUERCUS/WebContent/');
 define( '__LIB__'             , __DOC_ROOT__.'_lib/');
 define( '__START__'           , __DOC_ROOT__.'start.php');
 define( '__CONFIG__'          , __LIB__     .'config.php');

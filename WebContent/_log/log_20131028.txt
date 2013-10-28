@@ -1,0 +1,81 @@
+[2013/10/28 05:13:43] ======================================================================================================================================================
+[2013/10/28 05:13:43] | TMP                   : C:\Users\KJH\AppData\Local\Temp                                                                                            |
+[2013/10/28 05:13:43] | SystemRoot            : C:\Windows                                                                                                                 |
+[2013/10/28 05:13:43] | CUBRID DATABASES      : D:\CUBRID\databases                                                                                                        |
+[2013/10/28 05:13:43] | CommonProgramW6432    : C:\Program Files\Common Files                                                                                              |
+[2013/10/28 05:13:43] | VS100COMNTOOLS        : C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\Tools\                                                         |
+[2013/10/28 05:13:43] | PUBLIC                : C:\Users\Public                                                                                                            |
+[2013/10/28 05:13:43] | USERDOMAIN            : KJH-PC                                                                                                                     |
+[2013/10/28 05:13:43] | ProgramW6432          : C:\Program Files                                                                                                           |
+[2013/10/28 05:13:43] | SystemDrive           : C:                                                                                                                         |
+[2013/10/28 05:13:43] | CUBRID CHARSET        : en US                                                                                                                      |
+[2013/10/28 05:13:43] | windir                : C:\Windows                                                                                                                 |
+[2013/10/28 05:13:43] | windows tracing logfile: C:\BVTBin\Tests\installpackage\csilogfile.log                                                                             |
+[2013/10/28 05:13:43] | HOMEPATH              : \Users\KJH                                                                                                                 |
+[2013/10/28 05:13:43] | PATHEXT               : .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC                                                                      |
+[2013/10/28 05:13:43] | SESSIONNAME           : Console                                                                                                                    |
+[2013/10/28 05:13:43] | LOGONSERVER           : \\KJH-PC                                                                                                                   |
+[2013/10/28 05:13:43] | GTK BASEPATH          : D:\GtkSharp\2.12\                                                                                                          |
+[2013/10/28 05:13:43] | HOMEDRIVE             : C:                                                                                                                         |
+[2013/10/28 05:13:43] | CommonProgramFiles(x86): C:\Program Files (x86)\Common Files                                                                                       |
+[2013/10/28 05:13:43] | APPDATA               : C:\Users\KJH\AppData\Roaming                                                                                               |
+[2013/10/28 05:13:43] | Path                  : D:\CUBRID\bin\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Java\jdk1.7.0 25\bin;D:\Heroku\bin;C:\Program Files (x86)\git\cmd;D:\GtkSharp\2.12\bin;C:\Program Files\Microsoft Windows Performance Toolkit\;D:\TortoiseGit\bin|
+[2013/10/28 05:13:43] | COMPUTERNAME          : KJH-PC                                                                                                                     |
+[2013/10/28 05:13:43] | FP NO HOST CHECK      : NO                                                                                                                         |
+[2013/10/28 05:13:43] | LOCALAPPDATA          : C:\Users\KJH\AppData\Local                                                                                                 |
+[2013/10/28 05:13:43] | windows tracing flags : 3                                                                                                                          |
+[2013/10/28 05:13:43] | PSModulePath          : C:\Windows\system32\WindowsPowerShell\v1.0\Modules\                                                                        |
+[2013/10/28 05:13:43] | ComSpec               : C:\Windows\system32\cmd.exe                                                                                                |
+[2013/10/28 05:13:43] | CommonProgramFiles    : C:\Program Files\Common Files                                                                                              |
+[2013/10/28 05:13:43] | ProgramFiles(x86)     : C:\Program Files (x86)                                                                                                     |
+[2013/10/28 05:13:43] | ProgramData           : C:\ProgramData                                                                                                             |
+[2013/10/28 05:13:43] | CUBRID MODE           : client                                                                                                                     |
+[2013/10/28 05:13:43] | USERNAME              : KJH                                                                                                                        |
+[2013/10/28 05:13:43] | ALLUSERSPROFILE       : C:\ProgramData                                                                                                             |
+[2013/10/28 05:13:43] | USERPROFILE           : C:\Users\KJH                                                                                                               |
+[2013/10/28 05:13:43] | HerokuPath            : D:\Heroku                                                                                                                  |
+[2013/10/28 05:13:43] | PROCESSOR LEVEL       : 6                                                                                                                          |
+[2013/10/28 05:13:43] | PROCESSOR IDENTIFIER  : Intel64 Family 6 Model 42 Stepping 7, GenuineIntel                                                                         |
+[2013/10/28 05:13:43] | PROCESSOR REVISION    : 2a07                                                                                                                       |
+[2013/10/28 05:13:43] | JAVA HOME             : D:\Java\jdk1.7.0 25                                                                                                        |
+[2013/10/28 05:13:43] | CUBRID                : D:\CUBRID                                                                                                                  |
+[2013/10/28 05:13:43] | OS                    : Windows NT                                                                                                                 |
+[2013/10/28 05:13:43] | NUMBER OF PROCESSORS  : 4                                                                                                                          |
+[2013/10/28 05:13:43] | =::                   : ::\                                                                                                                        |
+[2013/10/28 05:13:43] | VBOX INSTALL PATH     : D:\VirtualBox\                                                                                                             |
+[2013/10/28 05:13:43] | TEMP                  : C:\Users\KJH\AppData\Local\Temp                                                                                            |
+[2013/10/28 05:13:43] | PROCESSOR ARCHITECTURE: AMD64                                                                                                                      |
+[2013/10/28 05:13:43] | ProgramFiles          : C:\Program Files                                                                                                           |
+[2013/10/28 05:13:43] | SERVER ADDR           : 0:0:0:0:0:0:0:1                                                                                                            |
+[2013/10/28 05:13:43] | SERVER NAME           : localhost                                                                                                                  |
+[2013/10/28 05:13:43] | SERVER PORT           : 9080                                                                                                                       |
+[2013/10/28 05:13:43] | REMOTE HOST           : 0:0:0:0:0:0:0:1                                                                                                            |
+[2013/10/28 05:13:43] | REMOTE ADDR           : 0:0:0:0:0:0:0:1                                                                                                            |
+[2013/10/28 05:13:43] | REMOTE PORT           : 60906                                                                                                                      |
+[2013/10/28 05:13:43] | SERVER SOFTWARE       : Apache PHP Quercus(Open Source 4.0.36)                                                                                     |
+[2013/10/28 05:13:43] | SERVER PROTOCOL       : HTTP/1.1                                                                                                                   |
+[2013/10/28 05:13:43] | REQUEST METHOD        : GET                                                                                                                        |
+[2013/10/28 05:13:43] | DOCUMENT ROOT         : /E:/WORK/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/smvcq/                                             |
+[2013/10/28 05:13:43] | SCRIPT NAME           : /smvcq/dml.test.php                                                                                                        |
+[2013/10/28 05:13:43] | SCRIPT URL            : /smvcq/dml.test.php                                                                                                        |
+[2013/10/28 05:13:43] | REQUEST URI           : /smvcq/dml.test.php                                                                                                        |
+[2013/10/28 05:13:43] | REQUEST TIME          : 1382948023                                                                                                                 |
+[2013/10/28 05:13:43] | REQUEST TIME FLOAT    : 1382948023.24                                                                                                              |
+[2013/10/28 05:13:43] | SCRIPT FILENAME       : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcq\dml.test.php                                  |
+[2013/10/28 05:13:43] | PHP SELF              : /smvcq/dml.test.php                                                                                                        |
+[2013/10/28 05:13:43] | HTTP HOST             : localhost:9080                                                                                                             |
+[2013/10/28 05:13:43] | HTTP CONNECTION       : keep-alive                                                                                                                 |
+[2013/10/28 05:13:43] | HTTP ACCEPT           : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8                                                 |
+[2013/10/28 05:13:43] | HTTP USER AGENT       : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36              |
+[2013/10/28 05:13:43] | HTTP REFERER          : http://localhost:9080/smvcq/                                                                                               |
+[2013/10/28 05:13:43] | HTTP ACCEPT ENCODING  : gzip,deflate,sdch                                                                                                          |
+[2013/10/28 05:13:43] | HTTP ACCEPT LANGUAGE  : ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4                                                                                        |
+[2013/10/28 05:13:43] ======================================================================================================================================================
+[2013/10/28 05:13:43] INFO  Controller::__construct() : {"method":"GET","request":{"FILES":[]},"cookie":[],"session":[]}
+[2013/10/28 05:13:43] INFO  Database::__construct() : Database connection success.
+[2013/10/28 05:13:43] QUERY Database::read( 'SHOW COLUMNS FROM `t_test`') : SHOW COLUMNS FROM `t_test`
+[2013/10/28 05:13:43] INFO  Model::setTable( 't_test', '') : Table 't_test' read success. => {"PKName":"f_idx","ColArr":{"f_idx":null,"f_key":null,"f_val":null}}
+[2013/10/28 05:13:43] QUERY Database::read( 'SELECT f_idx, f_key, f_val FROM t_test ;') : SELECT f_idx, f_key, f_val FROM t_test ;
+[2013/10/28 05:13:43] INFO  Model::select( 'f_idx, f_key, f_val', '') : Success => SELECT f_idx, f_key, f_val FROM t_test ;
+[2013/10/28 05:13:43] INFO  Controller::vars2input( array) : Success.
+[2013/10/28 05:13:43] INFO  Controller::makeTable( 'list', 'f_idx', array) : Success.
