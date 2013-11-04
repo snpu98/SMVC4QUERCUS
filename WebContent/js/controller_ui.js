@@ -4,20 +4,22 @@ $.fn.makeList = function( _PKName, _rows)
 
 	this.find( "[name=idx]"   ).remove();
 
-	if( _rows.size()>0)
+	if( _rows.length>0)
 	{
 		this.find( "[name=noRows]").remove();
 
 		for( i in _rows)
 		{
-			var idx   = rows[i][_PKName];
+			var idx   = _rows[i][_PKName];
 			var entry = entry0.clone();
 
 			entry.attr( "value", idx);
 
+			row = _rows[i];
+
 			for( key in row)
 			{
-				var val = row[k];
+				var val = row[key];
 
 				entry.find( "[name=" +key+ "]").html( val);
 			}
@@ -34,7 +36,7 @@ $.fn.makeSelect = function( _rows)
 
 	this.children( "option").remove();
 
-	if( _rows.size()>0)
+	if( _rows.length>0)
 	{
 		for( i in _rows)
 		{

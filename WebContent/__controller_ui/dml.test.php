@@ -1,6 +1,12 @@
 <script>
+//////////////////////////////////////////////////
+//
+//	Initial
+//
+//////////////////////////////////////////////////
+
 <?php
-include_once( '../_lib/start.php');
+include_once( './_lib/start.php');
 include_once( __MODEL__. 'test.php');
 
 $ictl  = new Controller();
@@ -11,9 +17,25 @@ $iTest = new test();
 
 $info = $iTest->get( $search_key);
 
-echo $ictl->vars2input( array( "search_key"=>$search_key));
-echo $ictl->makeTable ( "list", "f_idx", $info);
+$infoJSON = json_encode( $info);
+
+$varsJSON = json_encode( array( "search_key"=>$search_key));
+
 ?>
+$(function(){
+	<?= "var json = $varsJSON;\n";?>
+	json2dom( json);
+
+	<?= "var info = $infoJSON;\n";?>
+	$( "#list").makeList( "f_idx", info);
+});
+
+//////////////////////////////////////////////////
+//
+//	Controll
+//
+//////////////////////////////////////////////////
+
 $(function(){
 	$("#btn_add").click(function(){
 		var tmp;

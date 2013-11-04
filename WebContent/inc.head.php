@@ -11,6 +11,7 @@
 
 	<script src="<?=__JS__?>jquery.js"></script>
 	<script src="<?=__JS__?>common.js"></script>
+	<script src="<?=__JS__?>controller_ui.js"></script>
 </HEAD>
 
 <BODY>
